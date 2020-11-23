@@ -1,5 +1,6 @@
 # Mobile-Maze
-Electronics Club Project
+
+# Electronics Club IITG Project
 
 # Overview 
 Mobile Maze Game uses Arduino to create a balanced maze toy that uses Bluetooth to connect the phone to control the angle of the maze and navigates the ball to reach the portal at the end to win the game.
@@ -24,8 +25,8 @@ Mobile Maze Game uses Arduino to create a balanced maze toy that uses Bluetooth 
 #The delay in the motion of the maze is majorly due to the speed restriction of servo motor. Though the sensor data can be transmitted at higher rate, the servo couldn’t change its position quick.
 
 # References
-[1] Video reference- https://www.youtube.com/watch?v=-WZNPCrGW7E
-[2] Creation of app- https://www.youtube.com/watch?v=pR2rTRDZ_-Y
+#Video reference- https://www.youtube.com/watch?v=-WZNPCrGW7E
+#Creation of app- https://www.youtube.com/watch?v=pR2rTRDZ_-Y
 
   
 
