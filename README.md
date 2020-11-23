@@ -14,8 +14,7 @@ Mobile Maze Game uses Arduino to create a balanced maze toy that uses Bluetooth 
 # Methodology
 #The Android device data from gyroscope and accelerometer  is transmitted  through the bluetooth connection to the Arduino which controls the servos that tilt the maze. \
 #On the Android side the application is created with MIT App Inventor 2 and on the Arduino side the Arduino IDE is used. \
-#The app that we created will capture the data (roll angle and pitch angle) from the orientation sensor and transmits the same to Arduino via Bluetooth. \ 
-#This data is then used to determine the orientation of the mobile.
+#The app that we created will capture the data (roll angle and pitch angle) from the orientation sensor and transmits the same to Arduino via Bluetooth.This data is then used to determine the orientation of the mobile.
 
 # Results
 #The orientation sensor is software-based and derives its data from the accelerometer and the geomagnetic field sensor. And thus the orientation of mobile phone is directly obtained from this sensor in terms of roll and pitch.\
