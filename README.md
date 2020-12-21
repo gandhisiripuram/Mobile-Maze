@@ -25,7 +25,8 @@ Mobile Maze Game uses Arduino to create a balanced maze toy that uses Bluetooth 
 
 # References
 #Video reference- https://www.youtube.com/watch?v=-WZNPCrGW7E \
-#Creation of app- https://www.youtube.com/watch?v=pR2rTRDZ_-Y 
+#Creation of app- https://www.youtube.com/watch?v=pR2rTRDZ_-Y \
+#Final Project (done by us) - https://youtu.be/2mKjhqgsOCc 
 
   
 
