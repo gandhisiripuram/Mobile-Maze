@@ -6,7 +6,7 @@
 Mobile Maze Game uses Arduino to create a balanced maze toy that uses Bluetooth to connect the phone to control the angle of the maze and navigates the ball to reach the portal at the end to win the game.
 
 # Introduction 
-#The idea of the game is to navigate the marble through the maze to reach the portal at the end to win the game.\ 
+#The idea of the game is to navigate the marble through the maze to reach the portal at the end to win the game. \ 
 #Mobile Maze is a game of physical skill consisting of a box with a maze on top , and a marble . \
 #The object of the game is to try to tilt the play field to guide the marble to the end of the maze. \
 #The game was developed by BRIO in Sweden and first released there in 1946.
