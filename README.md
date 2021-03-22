@@ -20,13 +20,12 @@
 - The orientation sensor is software-based and derives its data from the accelerometer and the geomagnetic field sensor. And thus the orientation of mobile phone is directly obtained from this sensor in terms of roll and pitch.
 - Transmission of sensor data i.e roll and pitch via bluetooth is successfully done by encoding both the values into a single 16-bit data bus which is later decoded in the arduino to retrieve corresponding values to increase the efficiency of transmission.
 
+# [Project Demo](https://youtu.be/2mKjhqgsOCc)
+
 # Conclusion 
 - The delay in the motion of the maze is majorly due to the speed restriction of servo motor. Though the sensor data can be transmitted at higher rate, the servo couldn’t change its position quick.
 
-# [Project Demo](https://youtu.be/2mKjhqgsOCc)
-
 # References
-- [Video reference](https://www.youtube.com/watch?v=-WZNPCrGW7E) 
 - [Creation of app](https://www.youtube.com/watch?v=pR2rTRDZ_-Y)  
 
   
