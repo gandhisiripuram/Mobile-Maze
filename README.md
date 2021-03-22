@@ -23,10 +23,11 @@
 # Conclusion 
 - The delay in the motion of the maze is majorly due to the speed restriction of servo motor. Though the sensor data can be transmitted at higher rate, the servo couldn’t change its position quick.
 
+# [Project Demo](https://youtu.be/2mKjhqgsOCc)
+
 # References
-- Video reference- https://www.youtube.com/watch?v=-WZNPCrGW7E 
-- Creation of app- https://www.youtube.com/watch?v=pR2rTRDZ_-Y 
-- Final Project (done by us) - https://youtu.be/2mKjhqgsOCc 
+- [Video reference](https://www.youtube.com/watch?v=-WZNPCrGW7E) 
+- [Creation of app](https://www.youtube.com/watch?v=pR2rTRDZ_-Y)  
 
   
 
